@@ -1,0 +1,33 @@
+h1 {
+    display: inline-block;
+    margin-top: 15px;
+    margin-left: 25px;
+}
+#portal {
+    display: inline-block;
+    vertical-align: top;
+    width: 500px;
+    height: 800px;
+}
+#errors {
+    display: inline-block;
+    text-align: center;
+    width: 815px;
+    height: 800px;
+    margin: 0 auto;
+    color: red;
+}
+#space {
+    margin-top: 105px;
+}
+.fields {
+    width: 250px;
+    height: 20px;
+    margin-left: 15px;
+}
+.btn {
+    font-size: 15px;
+    padding: 5px;
+    color: black;
+    background-color: white;
+}
